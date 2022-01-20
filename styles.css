@@ -1,0 +1,13 @@
+#header{
+    background-color: brown;
+    font-family: 'Luxurious Roman', cursive;
+    font-weight: 100;
+    font-size:x-large;
+    color:coral;
+}
+
+/* The astrisk below selects everything on the webpage */
+*{
+    font-family: 'Luxurious Roman', cursive;
+}
+
